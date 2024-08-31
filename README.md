@@ -43,7 +43,7 @@ To explore the programs:
 
 
 ## Purpose of This Repository
-This repository serves as a personal archive of my journey in learning C programming. Each folder corresponds to specific assignments or topics, and the code within is written to solve various programming challenges.
+This repository serves as a personal archive of my journey in learning DSA programming. Each folder corresponds to specific assignments or topics, and the code within is written to solve various programming challenges.
 
  ## Connect with Me
  If you have any questions, suggestions, or just want to connect, feel free to reach out:
