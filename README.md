@@ -4,36 +4,34 @@ Welcome to my C++ Data Structures and Algorithms (DSA) Portfolio! This repositor
 
 ## Repository Structure
 
-The repository is organized into the following directories, each containing specific DSA topics or assignments:
+The repository is organized into the following directories, sorted in ascending order by assignment number:
 
-- **Array DS ASMT 40:** Programs focusing on array operations and manipulation.
-- **Array DS ASMT 41:** Further exploration of array operations.
-- **Circular Doubly Linked List DS ASMT 46:** Implementing circular doubly linked lists.
-- **Circular Linklist DS ASMT 45:** Programs demonstrating circular linked lists.
-- **Deque using Array ASMT 51:** Implementing deque (double-ended queue) using arrays.
-- **Deque using Linkedlist ASMT 51.1:** Implementing deque using linked lists.
-- **Doubly Linked List DS ASMT 44:** Understanding doubly linked lists.
-- **Dynamic Array ASMT 42:** Working with dynamic arrays in C++.
-- **Graph List ASMT 56:** Implementing graph representations using adjacency lists.
-- **Graph Matrix ASMT 55:** Implementing graph representations using adjacency matrices.
-- **Graph/List Traversal ASMT 57.1:** Exploring traversal algorithms on graph/list structures.
-- **Graph/Matrix Traversal ASMT 57.2:** Exploring traversal algorithms on graph/matrix structures.
-- **Hashing ASMT 60:** Implementing hashing.
-- **Heap ASMT 59:** Implementing heap data structures.
-- **Priority Queue using Array ASMT 52.1:** Implementing priority queues using arrays.
-- **Priority Queue using Linkedlist ASMT 52:** Implementing priority queues using linked lists.
-- **Queue using Array ASMT 49:** Implementing queue data structures using arrays.
-- **Queue using Linkedlist ASMT 50:** Implementing queue data structures using linked lists.
-- **STL ARRAY ASMT 62:** Exploring Standard Template Library (STL) array functionalities.
-- **Singly Linked List DS ASMT 43:** Understanding singly linked lists.
-- **Sorting ASMT 58:** Implementing various sorting algorithms.
-- **Sorting Array ASMT 58.1:** More on sorting algorithms with arrays.
-- **Stack using Arrays ASMT 47:** Implementing stack data structures using arrays.
-- **Template ASMT 61:** Understanding templates in C++ for generic programming.
-- **Tree ASMT 53:** Implementing basic tree data structures.
-- **AVL Tree 54:** Programs related to AVL trees.
-- **Vector ASMT 63:** Exploring the vector container in C++.
-- **Vector ASMT 64:** Further exploration of vector operations.
+1. **Dynamic Array ASMT 42:** Working with dynamic arrays in C++.
+2. **Singly Linked List DS ASMT 43:** Understanding singly linked lists.
+3. **Doubly Linked List DS ASMT 44:** Understanding doubly linked lists.
+4. **Circular Linklist DS ASMT 45:** Programs demonstrating circular linked lists.
+5. **Circular Doubly Linked List DS ASMT 46:** Implementing circular doubly linked lists.
+6. **Stack using Arrays ASMT 47:** Implementing stack data structures using arrays.
+7. **Queue using Array ASMT 49:** Implementing queue data structures using arrays.
+8. **Queue using Linkedlist ASMT 50:** Implementing queue data structures using linked lists.
+9. **Deque using Array ASMT 51:** Implementing deque (double-ended queue) using arrays.
+10. **Deque using Linkedlist ASMT 51.1:** Implementing deque using linked lists.
+11. **Priority Queue using Linkedlist ASMT 52:** Implementing priority queues using linked lists.
+12. **Priority Queue using Array ASMT 52.1:** Implementing priority queues using arrays.
+13. **Tree ASMT 53:** Implementing basic tree data structures.
+14. **AVL Tree 54:** Programs related to AVL trees.
+15. **Graph Matrix ASMT 55:** Implementing graph representations using adjacency matrices.
+16. **Graph List ASMT 56:** Implementing graph representations using adjacency lists.
+17. **Graph/List Traversal ASMT 57.1:** Exploring traversal algorithms on graph/list structures.
+18. **Graph/Matrix Traversal ASMT 57.2:** Exploring traversal algorithms on graph/matrix structures.
+19. **Sorting ASMT 58:** Implementing various sorting algorithms.
+20. **Sorting Array ASMT 58.1:** More on sorting algorithms with arrays.
+21. **Heap ASMT 59:** Programs related to heap data structures.
+22. **Hashing ASMT 60:** Implementing various hashing techniques.
+23. **Template ASMT 61:** Understanding templates in C++ for generic programming.
+24. **STL ARRAY ASMT 62:** Exploring Standard Template Library (STL) array functionalities.
+25. **Vector ASMT 63:** Exploring the vector container in C++.
+26. **Vector ASMT 64:** Further exploration of vector operations.
 
 ## Getting Started
 
@@ -42,6 +40,7 @@ To explore the programs:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/cpp-dsa-programming-portfolio.git
+
 
 1. **Navigate to the Desired Directory**
    Each directory contains .c files with well-commented code. You can compile and run the programs using a C compiler like GCC.
