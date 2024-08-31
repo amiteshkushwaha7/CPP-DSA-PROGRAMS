@@ -1,10 +1,10 @@
 # C++ Data Structures and Algorithms Portfolio
 
-Welcome to my C++ Data Structures and Algorithms (DSA) Portfolio! This repository contains a collection of C++ programs focused on various DSA concepts, organized by different assignments. Whether you're a student, educator, or fellow developer, I hope you find this repository useful for learning or reference.
+Welcome to my C++ Data Structures and Algorithms (DSA) Portfolio! This repository contains a collection and implementation of various DSA concepts, organized by different assignments. Whether you're a student, educator, or fellow developer, I hope you find this repository useful for learning or reference.
 
 ## Repository Structure
 
-The repository is organized into the following directories, sorted in ascending order by assignment number:
+The repository is organized into the following directories:
 
 1. **Dynamic Array ASMT 42:** Working with dynamic arrays in C++.
 2. **Singly Linked List DS ASMT 43:** Understanding singly linked lists.
@@ -19,15 +19,15 @@ The repository is organized into the following directories, sorted in ascending 
 11. **Priority Queue using Linkedlist ASMT 52:** Implementing priority queues using linked lists.
 12. **Priority Queue using Array ASMT 52.1:** Implementing priority queues using arrays.
 13. **Tree ASMT 53:** Implementing basic tree data structures.
-14. **AVL Tree 54:** Programs related to AVL trees.
+14. **AVL Tree 54:** Implementing to AVL trees.
 15. **Graph Matrix ASMT 55:** Implementing graph representations using adjacency matrices.
 16. **Graph List ASMT 56:** Implementing graph representations using adjacency lists.
-17. **Graph/List Traversal ASMT 57.1:** Exploring traversal algorithms on graph/list structures.
-18. **Graph/Matrix Traversal ASMT 57.2:** Exploring traversal algorithms on graph/matrix structures.
+17. **Graph/List Traversal ASMT 57.1:** Implementing traversal algorithms on graph/list structures.
+18. **Graph/Matrix Traversal ASMT 57.2:** Implementing traversal algorithms on graph/matrix structures.
 19. **Sorting ASMT 58:** Implementing various sorting algorithms.
 20. **Sorting Array ASMT 58.1:** More on sorting algorithms with arrays.
 21. **Heap ASMT 59:** Programs related to heap data structures.
-22. **Hashing ASMT 60:** Implementing various hashing techniques.
+22. **Hashing ASMT 60:** Implementing hashing.
 23. **Template ASMT 61:** Understanding templates in C++ for generic programming.
 24. **STL ARRAY ASMT 62:** Exploring Standard Template Library (STL) array functionalities.
 25. **Vector ASMT 63:** Exploring the vector container in C++.
@@ -40,13 +40,6 @@ To explore the programs:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/cpp-dsa-programming-portfolio.git
-
-
-1. **Navigate to the Desired Directory**
-   Each directory contains .c files with well-commented code. You can compile and run the programs using a C compiler like GCC.
-   ```bash
-   cd Array\ DS\ ASMT\ 40
-   g++ -o outputfile programfile.cpp./outputfile
 
 
 ## Purpose of This Repository
